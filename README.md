@@ -2,7 +2,6 @@
 
 
 
-<h3 align="center">full stack web developer</h3>
 
 
 
