@@ -14,7 +14,7 @@
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about Anything <a href="https://github.com/JayantGoel001/JayantGoel001/issues/1">here</a>! I am happy to help.</li>
 <li><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji> Pronouns : <strong>He/Him/His</strong></li>
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact : <strong>Best Part Of The Journey Is : <em>It Ends</em></strong></li>
-<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png"><img src="https://github.com/JayantGoel001/JayantGoel001/raw/master/house.png" width="20px" height="20px" style="max-width:100%;"></a>  Hogwarts House : <strong>Slytherin</strong> <a target="_blank" rel="noopener noreferrer" href="https://github.com/JayantGoel001/JayantGoel001/blob/master/Slytherin_ClearBG.png"><img width="20px" height="20px" src="https://github.com/JayantGoel001/JayantGoel001/raw/master/Slytherin_ClearBG.png" style="max-width:100%;"></a></li>
+<li><a target="_blank" rel="noopener noreferrer" href="https://github.com/JayantGoel001/JayantGoel001/blob/master/house.png"><img src="https://github.com/JayantGoel001/JayantGoel001/raw/master/house.png" width="20px" height="20px" style="max-width:100%;"></a>  </li>
 </ul>
 
 
