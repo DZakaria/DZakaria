@@ -30,7 +30,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=DZakaria&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 
-
+<hr>
 <img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/raw/master/github.gif" style="max-width:100%;">
 
 <br><br>
