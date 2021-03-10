@@ -5,7 +5,7 @@
 
 
 
-<img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/raw/master/image.gif" style="max-width:100%;">
+<img align="right" height="210" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/raw/master/image.gif" style="max-width:100%;">
 <ul>
 
 <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I’m currently working on <strong>Web Development</strong></li>
