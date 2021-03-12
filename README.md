@@ -17,7 +17,6 @@
 
 <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about Anything ! I am happy to help.</li>
 
-<li><g-emoji class="g-emoji" alias="smile" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png">😄</g-emoji> Pronouns : <strong>He/Him/His</strong></li>
 
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Fun fact : <strong>Best Part Of The Journey Is : <em>It Ends</em></strong></li>
 </ul>
