@@ -31,7 +31,6 @@
 
 
 <hr>
-<img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/raw/master/github.gif" style="max-width:100%;">
 
 <br><br>
 <h3 align="left">Languages and Tools:</h3>
