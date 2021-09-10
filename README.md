@@ -16,7 +16,15 @@
 
 
 
-<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about Anything ! I am happy to help.</li>
+<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji>
+  How to reach me : zakariae.boutouil@gmail.com</li>
+  
+  <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about Anything ! I am happy to help.</li>
+  
+  
+
+
+
 
 
 </ul>
