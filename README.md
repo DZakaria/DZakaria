@@ -34,7 +34,6 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=DZakaria&&show_icons=true&title_color=1e90ff&icon_color=0000ff&text_color=000000&bg_color=fff">
 
 
 <hr>
