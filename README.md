@@ -1,4 +1,4 @@
-###  Hi there! 👋 Welcome to my GitHub profile, I'm Zakaria!!! 👋
+###  Hi there! Welcome to my GitHub profile, I'm Zakaria!!! 👋
 
 
 
