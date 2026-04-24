@@ -6,7 +6,7 @@
 - **Web Development**
 
 ## 🌱 Learning:
-- **Artificial Intelligence** 
+- **Artificial Intelligence**
 - **Competitive Programming**
 
 ## 🤝 Looking to collaborate on:
